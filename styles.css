@@ -1,0 +1,26 @@
+img{
+    border: 12px black;
+    border-radius: 150px;
+}
+.article1{ 
+    float: left;
+
+}
+.article2{
+    float: right;
+    background-color: aqua;
+}
+.container{
+    display: grid;
+    border: 10px;
+    background-color: black;
+}
+.main1{
+    font-size: larger;
+}
+h2{
+    color: blue;
+}
+header{
+    background-color:#63B3ED;
+}
