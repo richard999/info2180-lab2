@@ -1,6 +1,7 @@
 img{
     border: 12px black;
     border-radius: 150px;
+    padding-right: 10px;
 }
 .article1{ 
     float: left;
@@ -23,4 +24,12 @@ h2{
 }
 header{
     background-color:#63B3ED;
+    color:#FFFFFF;
+}
+.flex-item{
+text-align: center;
+display:flex;
+align-items: center;
+justify-content: center;
+
 }
